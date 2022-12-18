@@ -1,0 +1,44 @@
+h1.main {
+    font-size: 55px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:blanchedalmond;
+    color:rgb(50, 205, 86)
+}
+h3 {
+    font-size: 36px;
+    background-color: blanchedalmond;
+    color: rgb(50, 205, 86);
+    text-align: center;
+}
+li.main {
+    font-size: 26px;
+    color:mediumvioletred;
+}
+
+h1 {
+    color:violet;
+    text-align: center;
+    background-color: aqua;
+    font-size: 60px;
+}
+h2 {
+    text-align: center;
+    font-size: 43px;
+    color:slateblue;
+    background-color:salmon;
+}
+li, p {
+    font-size: 25px;
+    color:black;
+    font-weight: bold
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body {
+    background-image: url(images/bg-6.jpeg);
+}
